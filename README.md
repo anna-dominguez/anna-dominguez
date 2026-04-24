@@ -15,7 +15,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anna--dominguez.vercel.app-black?style=flat-square&logo=vercel)](https://anna-dominguez.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anna--dominguez.vercel.app-black?style=flat-square&logo=vercel)](https://anna-dominguez.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adomingu-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adomingu)
 [![Email](https://img.shields.io/badge/Email-ann4.dominguez@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:ann4.dominguez@gmail.com)
 
